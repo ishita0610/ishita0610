@@ -15,17 +15,15 @@
 <tr>
 <td width="85%">
 
-# 💫 About Me
+💫 About Me
 
 
 class IshitaSharma:
-
     def __init__(self):
         self.role = "AI/ML Enthusiast"
         self.language = ["Python", "C++", "Java"]
         self.learning = ["Deep Learning", "Generative AI"]
         self.interests = ["Machine Learning", "Data Science", "AI Projects"]
-
     def say_hi(self):
         print("Thanks for visiting my GitHub Profile!")
 
@@ -45,11 +43,11 @@ me.say_hi()
 
 </div>
 
----
+
 
 <div align="center">
 
-# 🚀 Connect With Me
+🚀 Connect With Me
 
 <a href="https://linkedin.com/in/ishita-sharma-6b37ba335">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -65,25 +63,24 @@ me.say_hi()
 
 </div>
 
----
+
 
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Python+Programmer;Building+Real-World+AI+Projects" />
 
 </div>
-```
----
 
-# 🚀 Tech Stack
 
-## 👩‍💻 Languages
+🚀 Tech Stack
+
+👩‍💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
 </p>
 
-## 🤖 AI/ML Libraries
+🤖 AI/ML Libraries
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow" />
@@ -102,63 +99,63 @@ me.say_hi()
 <img src="https://skillicons.dev/icons?i=git,github,vscode,flask" />
 </p>
 
----
 
-# 📌 Featured Projects
 
-## 🛡️ FraudShield AI
+📌 Featured Projects
+
+🛡️ FraudShield AI
 
 🔹 AI-powered fraud detection system using Machine Learning.
 
-### ✨ Features
+✨ Features
 - Fraud transaction detection
 - Real-time prediction
 - Data visualization
 - ML classification model
 
-### ⚙️ Tech Used
+⚙️ Tech Used
 `Python` `Scikit-learn` `Flask` `Pandas`
 
 🔗 Repository:  
 [FraudShield AI](https://github.com/ishita0610/FraudShield-AI)
 
----
 
-## 📩 Spam SMS Detection
+
+📩 Spam SMS Detection
 
 🔹 NLP-based SMS classifier that detects Spam or Ham messages.
 
-### ✨ Features
+✨ Features
 - NLP text processing
 - Spam classification
 - High accuracy model
 
-### ⚙️ Tech Used
+⚙️ Tech Used
 `Python` `NLTK` `Scikit-learn`
 
 🔗 Repository:  
 [Spam SMS Detection](https://github.com/ishita0610/Spam-SMS-Detection)
 
----
 
-## 🛒 E-commerce Recommendation System
+
+🛒 E-commerce Recommendation System
 
 🔹 Recommendation engine suggesting products based on user behavior.
 
-### ✨ Features
+✨ Features
 - Personalized recommendations
 - Product similarity analysis
 - Collaborative filtering
 
-### ⚙️ Tech Used
+⚙️ Tech Used
 `Python` `Machine Learning` `Pandas`
 
 🔗 Repository:  
 [E-commerce Recommendation System](https://github.com/ishita0610/Ecommerce-Recommendation-System)
 
----
 
-# 📊 GitHub Stats
+
+📊 GitHub Stats
 
 <p align="center">
 
@@ -168,17 +165,17 @@ me.say_hi()
 
 </p>
 
----
 
-# 🔥 GitHub Streak
+
+🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishita0610&theme=tokyonight" />
 </p>
 
----
 
-# 🌐 Connect With Me
+
+🌐 Connect With Me
 
 <p align="center">
 
@@ -192,9 +189,9 @@ me.say_hi()
 
 </p>
 
----
 
-# ✨ Quote
+
+✨ Quote
 
 <p align="center">
 <i>"Turning data into intelligent solutions."</i>
