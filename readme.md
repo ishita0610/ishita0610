@@ -1,4 +1,4 @@
-```md
+
 # Hi 👋, I'm Ishita Sharma
 
 ## AI/ML Enthusiast | Python Developer | Data Science Learner
@@ -116,5 +116,4 @@ https://github.com/ishita0610/Ecommerce-Recommendation-System
 
 > "Turning data into intelligent solutions."
 
-```
 
