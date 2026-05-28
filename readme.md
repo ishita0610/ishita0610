@@ -15,61 +15,40 @@
 <tr>
 <td width="85%">
 
+
+
+<div align="center">
+
+<div style="
+width:85%;
+padding:30px;
+border-radius:25px;
+background:rgba(255,255,255,0.08);
+backdrop-filter: blur(15px);
+-webkit-backdrop-filter: blur(15px);
+border:1px solid rgba(255,255,255,0.18);
+box-shadow:0 8px 32px 0 rgba(31,38,135,0.37);
+background-image: linear-gradient(
+135deg,
+rgba(102,126,234,0.35),
+rgba(118,75,162,0.35)
+);
+color:white;
+">
+    
 💫 About Me
 
+✨ AI/ML Enthusiast passionate about building intelligent systems  
+🚀 Exploring Machine Learning, Deep Learning & Generative AI  
+💻 Skilled in Python, Data Science & AI Development  
+📊 Love transforming data into real-world solutions  
+🌱 Constantly learning and improving every day  
 
-class IshitaSharma:
-    def __init__(self):
-        self.role = "AI/ML Enthusiast"
-        self.language = ["Python", "C++", "Java"]
-        self.learning = ["Deep Learning", "Generative AI"]
-        self.interests = ["Machine Learning", "Data Science", "AI Projects"]
-    def say_hi(self):
-        print("Thanks for visiting my GitHub Profile!")
-
-me = IshitaSharma()
-me.say_hi()
-
-
-</td>
-
-<td>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px">
-
-</td>
-</tr>
-</table>
+</div>
 
 </div>
 
 
-
-<div align="center">
-
-🚀 Connect With Me
-
-<a href="https://linkedin.com/in/ishita-sharma-6b37ba335">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ishita0610">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:ishita062003@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Python+Programmer;Building+Real-World+AI+Projects" />
-
-</div>
 
 
 🚀 Tech Stack
