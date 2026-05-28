@@ -1,30 +1,78 @@
 
 
-<h1 align="center">Hi 👋, I'm Ishita Sharma</h1>
+<div align="center">
 
-<h3 align="center">
-AI/ML Enthusiast • Python Developer • Data Science Learner
-</h3>
+<!-- Gradient Header -->
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Python+Programmer;Data+Science+Enthusiast" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Ishita%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20•%20Python%20Developer%20•%20Data%20Science%20Learner&descAlignY=55&descSize=20" />
 
----
+</div>
+
+
+<div align="center">
+
+<table>
+<tr>
+<td width="85%">
 
 # 💫 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 Computer Science Engineering Student  
-- 🤖 Passionate about AI & Machine Learning  
-- 🌱 Learning Deep Learning & Generative AI  
-- 💡 Building real-world AI projects  
-- 📊 Skilled in Python, ML & Data Analysis  
-- ⚡ Love solving real-world problems using AI  
+class IshitaSharma:
 
-📫 **Email:** `ishita062003@gmail.com`
+    def __init__(self):
+        self.role = "AI/ML Enthusiast"
+        self.language = ["Python", "C++", "Java"]
+        self.learning = ["Deep Learning", "Generative AI"]
+        self.interests = ["Machine Learning", "Data Science", "AI Projects"]
 
+    def say_hi(self):
+        print("Thanks for visiting my GitHub Profile!")
+
+me = IshitaSharma()
+me.say_hi()
+
+
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px">
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 Connect With Me
+
+<a href="https://linkedin.com/in/ishita-sharma-6b37ba335">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ishita0610">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:ishita062003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Python+Programmer;Building+Real-World+AI+Projects" />
+
+</div>
+```
 ---
 
 # 🚀 Tech Stack
