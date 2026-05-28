@@ -1,43 +1,58 @@
 
-# Hi 👋, I'm Ishita Sharma
 
-## AI/ML Enthusiast | Python Developer | Data Science Learner
+<h1 align="center">Hi 👋, I'm Ishita Sharma</h1>
 
----
+<h3 align="center">
+AI/ML Enthusiast • Python Developer • Data Science Learner
+</h3>
 
-## 🚀 About Me
-
-- 🎓 Computer Science Engineering Student
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 📊 Skilled in Python, Machine Learning, and Data Analysis
-- 🌱 Currently learning Deep Learning & Generative AI
-- 💡 Interested in building AI-powered real-world applications
-
-📫 Email: **ishita062003@gmail.com**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Python+Programmer;Data+Science+Enthusiast" />
+</p>
 
 ---
 
-# 🛠️ Tech Stack
+# 💫 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 Computer Science Engineering Student  
+- 🤖 Passionate about AI & Machine Learning  
+- 🌱 Learning Deep Learning & Generative AI  
+- 💡 Building real-world AI projects  
+- 📊 Skilled in Python, ML & Data Analysis  
+- ⚡ Love solving real-world problems using AI  
+
+📫 **Email:** `ishita062003@gmail.com`
+
+---
+
+# 🚀 Tech Stack
 
 ## 👩‍💻 Languages
-- Python
-- C++
-- SQL
-- Java
 
-## 📚 AI/ML Libraries
-- Scikit-learn
-- Pandas
-- NumPy
-- TensorFlow
-- Matplotlib
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql" />
+</p>
 
-## 🌐 Tools & Platforms
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- Google Colab
-- Render
+## 🤖 AI/ML Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+</p>
+
+## 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,flask" />
+</p>
 
 ---
 
@@ -45,75 +60,96 @@
 
 ## 🛡️ FraudShield AI
 
-AI-powered fraud detection system that identifies suspicious transactions using Machine Learning algorithms.
+🔹 AI-powered fraud detection system using Machine Learning.
 
-### 🔹 Features
+### ✨ Features
 - Fraud transaction detection
-- Machine Learning prediction model
-- Data preprocessing & visualization
-- Real-time prediction support
+- Real-time prediction
+- Data visualization
+- ML classification model
 
-### 🔹 Tech Used
-`Python` `Scikit-learn` `Pandas` `Flask`
+### ⚙️ Tech Used
+`Python` `Scikit-learn` `Flask` `Pandas`
 
-🔗 Repository Link:  
-https://github.com/ishita0610/FraudShield-AI
+🔗 Repository:  
+[FraudShield AI](https://github.com/ishita0610/FraudShield-AI)
 
 ---
 
 ## 📩 Spam SMS Detection
 
-Machine Learning model that classifies SMS messages as Spam or Ham using NLP techniques.
+🔹 NLP-based SMS classifier that detects Spam or Ham messages.
 
-### 🔹 Features
-- SMS classification
-- Natural Language Processing
-- Text vectorization
-- High accuracy prediction model
+### ✨ Features
+- NLP text processing
+- Spam classification
+- High accuracy model
 
-### 🔹 Tech Used
-`Python` `NLTK` `Scikit-learn` `Pandas`
+### ⚙️ Tech Used
+`Python` `NLTK` `Scikit-learn`
 
-🔗 Repository Link:  
-https://github.com/ishita0610/Spam-SMS-Detection
+🔗 Repository:  
+[Spam SMS Detection](https://github.com/ishita0610/Spam-SMS-Detection)
 
 ---
 
 ## 🛒 E-commerce Recommendation System
 
-Recommendation engine that suggests products based on user interests and behavior.
+🔹 Recommendation engine suggesting products based on user behavior.
 
-### 🔹 Features
+### ✨ Features
 - Personalized recommendations
-- Collaborative filtering
 - Product similarity analysis
-- User behavior tracking
+- Collaborative filtering
 
-### 🔹 Tech Used
-`Python` `Machine Learning` `Pandas` `NumPy`
+### ⚙️ Tech Used
+`Python` `Machine Learning` `Pandas`
 
-🔗 Repository Link:  
-https://github.com/ishita0610/Ecommerce-Recommendation-System
+🔗 Repository:  
+[E-commerce Recommendation System](https://github.com/ishita0610/Ecommerce-Recommendation-System)
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishita0610&show_icons=true&theme=default)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishita0610&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishita0610&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishita0610&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishita0610&theme=tokyonight" />
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/ishita-sharma-6b37ba335
-- GitHub: https://github.com/ishita0610
+<p align="center">
+
+<a href="https://linkedin.com/in/ishita-sharma-6b37ba335">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ishita0610">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 # ✨ Quote
 
-> "Turning data into intelligent solutions."
+<p align="center">
+<i>"Turning data into intelligent solutions."</i>
+</p>
 
 
