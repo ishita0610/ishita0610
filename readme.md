@@ -182,17 +182,6 @@ Certified in Python fundamentals, hands-on projects, and AI/ML concepts.
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ishita0610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ishita Sharma GitHub stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ishita0610&theme=tokyonight&hide_border=true&background=0D1117" alt="Ishita Sharma GitHub streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishita0610&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:7c3aed,100:0f172a" alt="Footer wave" />
-</p>
-
 <br />
 
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishita0610&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=CBD5E1&line=22D3EE&point=A855F7&area=true&area_color=312E81" alt="GitHub activity graph" />
@@ -202,9 +191,18 @@ Certified in Python fundamentals, hands-on projects, and AI/ML concepts.
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%" alt="Neon divider" />
-Pac-Man 
+<h3 align="center">Pac-Man </h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishita0610/ishita0610/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishita0610/ishita0610/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ishita0610/ishita0610/output/pacman-contribution-graph.svg">
 </picture>
+
+
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:7c3aed,100:0f172a" alt="Footer wave" />
+</p>
+
