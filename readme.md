@@ -1,16 +1,16 @@
-# <p align="center">
+<p align="center">
 
-# <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:7c3aed,100:06b6d4&text=ISHITA%20SHARMA&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Data%20Driven%20Problem%20Solver&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:7c3aed,100:06b6d4&text=ISHITA%20SHARMA&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Data%20Driven%20Problem%20Solver&descAlignY=58&descSize=18" />
 
-# </p>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=28&duration=2500&pause=900&color=61DAFB&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Building+AI-Powered+Applications;Always+Learning+New+Technologies" />
 </p>
 
----
 
-# <p align="center">👋 Hi, I'm Ishita Sharma</p>
+
+<p align="center">👋 Hi, I'm Ishita Sharma</p>
 
 <h3 align="center">
 AI/ML Enthusiast • Python Developer • Data Science Learner
@@ -20,9 +20,9 @@ AI/ML Enthusiast • Python Developer • Data Science Learner
 I enjoy building intelligent applications using Machine Learning, Deep Learning, NLP, and Python while continuously exploring modern AI technologies.
 </p>
 
----
 
-## 🌐 Connect With Me
+
+🌐 Connect With Me
 
 <p align="center">
 
@@ -40,16 +40,15 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 </p>
 
----
 
-# 👩‍💻 About Me
+👩‍💻 About Me
 
 <table>
 <tr>
 
 <td width="60%">
 
-### 💡 Who Am I?
+💡 Who Am I?
 
 🎓 Final Year B.Tech Computer Science Engineering Student
 
@@ -83,7 +82,7 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 </tr>
 </table>
 
----
+
 
 # 🚀 Quick Highlights
 
@@ -136,11 +135,11 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 </table>
 
----
 
-# 💻 Tech Stack
 
-## 👨‍💻 Programming Languages
+💻 Tech Stack
+
+👨‍💻 Programming Languages
 
 <p align="center">
 
@@ -160,9 +159,9 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 </p>
 
----
 
-## ⚙️ Frameworks & Libraries
+
+⚙️ Frameworks & Libraries
 
 <p align="center">
 
@@ -184,9 +183,9 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 </p>
 
----
 
-## 🤖 Artificial Intelligence & Machine Learning
+
+🤖 Artificial Intelligence & Machine Learning
 
 <p align="center">
 
@@ -208,9 +207,9 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 </p>
 
----
 
-## 📚 Python Libraries
+
+📚 Python Libraries
 
 <p align="center">
 
@@ -230,9 +229,9 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 </p>
 
----
 
-## 🎯 Areas of Interest
+
+🎯 Areas of Interest
 
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning
@@ -245,7 +244,7 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 * ⚡ Python Development
 * 🚀 Intelligent Automation
 
----
+
 
 <p align="center">
 
@@ -253,8 +252,8 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 </p>
 
-# ⭐ Featured Projects 
-# 🚀 Featured Projects
+⭐ Featured Projects 
+🚀 Featured Projects
 
 <table>
 
@@ -276,7 +275,7 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 AI-powered fraud detection system that identifies suspicious financial transactions using machine learning algorithms.
 
-### ✨ Features
+✨ Features
 
 - User Authentication
 - Fraud Prediction
@@ -287,7 +286,7 @@ AI-powered fraud detection system that identifies suspicious financial transacti
 - Explainable AI
 - Real-time Prediction
 
-### 🛠 Technologies
+🛠 Technologies
 
 - Python
 - Django
@@ -315,11 +314,11 @@ AI-powered fraud detection system that identifies suspicious financial transacti
 
 <br><br>
 
-### 📌 Overview
+📌 Overview
 
 Personalized recommendation engine that recommends products according to user preferences.
 
-### ✨ Features
+✨ Features
 
 - Personalized Suggestions
 - Product Similarity
@@ -327,7 +326,7 @@ Personalized recommendation engine that recommends products according to user pr
 - Machine Learning
 - User Preference Analysis
 
-### 🛠 Technologies
+ 🛠 Technologies
 
 - Python
 - Machine Learning
@@ -360,11 +359,11 @@ Personalized recommendation engine that recommends products according to user pr
 
 <br><br>
 
-### 📌 Overview
+📌 Overview
 
 Machine learning web application that classifies SMS messages as Spam or Ham using NLP.
 
-### ✨ Features
+✨ Features
 
 - Text Cleaning
 - NLP
@@ -372,7 +371,7 @@ Machine learning web application that classifies SMS messages as Spam or Ham usi
 - Spam Prediction
 - Web Interface
 
-### 🛠 Technologies
+ 🛠 Technologies
 
 - Python
 - Flask
@@ -389,9 +388,9 @@ Machine learning web application that classifies SMS messages as Spam or Ham usi
 
 <td width="50%" valign="top">
 
-# 🚧 Coming Soon
+🚧 Coming Soon
 
-### 🎓 AI Tutor Bot
+🎓 AI Tutor Bot
 
 A complete AI-powered personalized learning platform featuring:
 
@@ -422,9 +421,9 @@ A complete AI-powered personalized learning platform featuring:
 
 </table>
 
----
 
-# 💼 Experience
+
+💼 Experience
 
 <table>
 
@@ -459,13 +458,13 @@ A complete AI-powered personalized learning platform featuring:
 
 <td>
 
-### Jun 2025 – Jul 2025
+Jun 2025 – Jul 2025
 
 </td>
 
 <td>
 
-# A2IT InternEdge
+A2IT InternEdge
 
 ### Python AI/ML Training
 
@@ -491,9 +490,9 @@ Completed an intensive AI/ML training program covering
 
 <td>
 
-# Excellence Technology
+Excellence Technology
 
-### Core Java Training
+Core Java Training
 
 Covered
 
@@ -509,9 +508,8 @@ Covered
 
 </table>
 
----
 
-# 🎓 Education
+🎓 Education
 
 <table>
 
@@ -519,9 +517,9 @@ Covered
 
 <td width="50%">
 
-## Himachal Pradesh Technical University
+ Himachal Pradesh Technical University
 
-### Bachelor of Technology
+Bachelor of Technology
 
 Computer Science Engineering
 
@@ -547,9 +545,9 @@ Class XII (Non-Medical)
 
 </table>
 
----
 
-# 📜 Certifications
+
+📜 Certifications
 
 <table>
 
@@ -595,9 +593,9 @@ Excellence Technology
 
 </table>
 
----
 
-# 🏆 Achievements
+
+🏆 Achievements
 
 - 🎯 Built multiple AI & Machine Learning projects
 - 💻 Developed full-stack AI web applications
@@ -605,7 +603,7 @@ Excellence Technology
 - 🧠 Passionate AI learner
 - 🚀 Continuously exploring Generative AI
 
----
+
 
 <p align="center">
 
@@ -613,7 +611,7 @@ Excellence Technology
 
 </p>
 
-# 📊 GitHub Stats & Activity
+📊 GitHub Stats & Activity
 
 <p align="center">
 
@@ -623,25 +621,25 @@ Excellence Technology
 
 </p>
 
----
 
-# 📈 GitHub Activity Graph
+
+📈 GitHub Activity Graph
 
 <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishita0610&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
-# 🐍 Contribution Snake (Optional but Cool)
+
+🐍 Contribution Snake (Optional but Cool)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
-# 👾 Pacman Contribution Graph (FIXED)
+
+👾 Pacman Contribution Graph (FIXED)
 
 > ⚠️ This works ONLY if GitHub Actions is enabled (output branch must exist)
 
@@ -655,7 +653,7 @@ Excellence Technology
 
 </p>
 
----
+
 
 # 🏆 GitHub Trophies
 
@@ -663,17 +661,17 @@ Excellence Technology
 <img src="https://github-profile-trophy.vercel.app/?username=ishita0610&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
----
 
-# 👀 Profile Views Counter
+
+👀 Profile Views Counter
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ishita0610&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
----
 
-# 📬 Contact Me
+
+📬 Contact Me
 
 <p align="center">
 
@@ -691,9 +689,8 @@ Excellence Technology
 
 </p>
 
----
 
-# ✨ Footer
+✨ Footer
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,50:7c3aed,100:0f172a&section=footer" />
