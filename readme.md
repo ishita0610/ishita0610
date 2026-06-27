@@ -22,7 +22,7 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 
 
-🌐 Connect With Me
+#🌐 Connect With Me
 
 <p align="center">
 
@@ -41,14 +41,14 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 </p>
 
 
-👩‍💻 About Me
+#👩‍💻 About Me
 
 <table>
 <tr>
 
 <td width="60%">
 
-💡 Who Am I?
+#💡 Who Am I?
 
 🎓 Final Year B.Tech Computer Science Engineering Student
 
@@ -62,7 +62,7 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 🚀 Building intelligent AI-powered web applications using Django
 
-🔍 Interested in:
+#🔍 Interested in:
 
 * Machine Learning
 * Deep Learning
@@ -84,7 +84,7 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 
 
-# 🚀 Quick Highlights
+#🚀 Quick Highlights
 
 <table>
 
@@ -137,9 +137,9 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 
 
-💻 Tech Stack
+#💻 Tech Stack
 
-👨‍💻 Programming Languages
+#👨‍💻 Programming Languages
 
 <p align="center">
 
@@ -161,7 +161,7 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 
 
-⚙️ Frameworks & Libraries
+#⚙️ Frameworks & Libraries
 
 <p align="center">
 
@@ -185,7 +185,7 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 
 
-🤖 Artificial Intelligence & Machine Learning
+#🤖 Artificial Intelligence & Machine Learning
 
 <p align="center">
 
@@ -209,7 +209,7 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 
 
-📚 Python Libraries
+#📚 Python Libraries
 
 <p align="center">
 
@@ -231,7 +231,7 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 
 
-🎯 Areas of Interest
+#🎯 Areas of Interest
 
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning
@@ -275,7 +275,7 @@ I enjoy building intelligent applications using Machine Learning, Deep Learning,
 
 AI-powered fraud detection system that identifies suspicious financial transactions using machine learning algorithms.
 
-✨ Features
+#✨ Features
 
 - User Authentication
 - Fraud Prediction
@@ -286,7 +286,7 @@ AI-powered fraud detection system that identifies suspicious financial transacti
 - Explainable AI
 - Real-time Prediction
 
-🛠 Technologies
+#🛠 Technologies
 
 - Python
 - Django
@@ -314,7 +314,7 @@ AI-powered fraud detection system that identifies suspicious financial transacti
 
 <br><br>
 
-📌 Overview
+#📌 Overview
 
 Personalized recommendation engine that recommends products according to user preferences.
 
@@ -326,7 +326,7 @@ Personalized recommendation engine that recommends products according to user pr
 - Machine Learning
 - User Preference Analysis
 
- 🛠 Technologies
+# 🛠 Technologies
 
 - Python
 - Machine Learning
@@ -359,19 +359,11 @@ Personalized recommendation engine that recommends products according to user pr
 
 <br><br>
 
-📌 Overview
+#📌 Overview
 
 Machine learning web application that classifies SMS messages as Spam or Ham using NLP.
 
-✨ Features
-
-- Text Cleaning
-- NLP
-- TF-IDF
-- Spam Prediction
-- Web Interface
-
- 🛠 Technologies
+#🛠 Technologies
 
 - Python
 - Flask
@@ -388,25 +380,9 @@ Machine learning web application that classifies SMS messages as Spam or Ham usi
 
 <td width="50%" valign="top">
 
-🚧 Coming Soon
 
-🎓 AI Tutor Bot
 
-A complete AI-powered personalized learning platform featuring:
-
-- AI Chat Tutor
-- Voice Tutor
-- Quiz Generator
-- Emotion Detection
-- RAG PDF Chat
-- Flashcards
-- AI Notes
-- Study Planner
-- Analytics Dashboard
-- Gamification
-- Career Guidance
-
-**Tech Stack**
+#**Tech Stack**
 
 - Django
 - Python
@@ -423,7 +399,7 @@ A complete AI-powered personalized learning platform featuring:
 
 
 
-💼 Experience
+#💼 Experience
 
 <table>
 
@@ -464,7 +440,7 @@ Jun 2025 – Jul 2025
 
 <td>
 
-A2IT InternEdge
+#A2IT InternEdge
 
 ### Python AI/ML Training
 
@@ -490,9 +466,9 @@ Completed an intensive AI/ML training program covering
 
 <td>
 
-Excellence Technology
+#Excellence Technology
 
-Core Java Training
+#Core Java Training
 
 Covered
 
@@ -509,7 +485,7 @@ Covered
 </table>
 
 
-🎓 Education
+#🎓 Education
 
 <table>
 
@@ -547,7 +523,7 @@ Class XII (Non-Medical)
 
 
 
-📜 Certifications
+#📜 Certifications
 
 <table>
 
@@ -563,9 +539,9 @@ Udemy
 
 <td>
 
-🏅 Artificial Intelligence & Machine Learning
+#🏅 Artificial Intelligence & Machine Learning
 
-ThinkNEXT Technologies
+#ThinkNEXT Technologies
 
 </td>
 
@@ -575,17 +551,17 @@ ThinkNEXT Technologies
 
 <td>
 
-🏅 Python AI/ML
+#🏅 Python AI/ML
 
-A2IT InternEdge
+#A2IT InternEdge
 
 </td>
 
 <td>
 
-🏅 Core Java
+#🏅 Core Java
 
-Excellence Technology
+#Excellence Technology
 
 </td>
 
@@ -595,7 +571,7 @@ Excellence Technology
 
 
 
-🏆 Achievements
+#🏆 Achievements
 
 - 🎯 Built multiple AI & Machine Learning projects
 - 💻 Developed full-stack AI web applications
@@ -611,7 +587,7 @@ Excellence Technology
 
 </p>
 
-📊 GitHub Stats & Activity
+#📊 GitHub Stats & Activity
 
 <p align="center">
 
@@ -623,7 +599,7 @@ Excellence Technology
 
 
 
-📈 GitHub Activity Graph
+#📈 GitHub Activity Graph
 
 <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishita0610&theme=tokyo-night&hide_border=true" />
@@ -631,7 +607,7 @@ Excellence Technology
 
 
 
-🐍 Contribution Snake (Optional but Cool)
+#🐍 Contribution Snake (Optional but Cool)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -639,7 +615,7 @@ Excellence Technology
 
 
 
-👾 Pacman Contribution Graph (FIXED)
+#👾 Pacman Contribution Graph (FIXED)
 
 > ⚠️ This works ONLY if GitHub Actions is enabled (output branch must exist)
 
@@ -663,7 +639,7 @@ Excellence Technology
 
 
 
-👀 Profile Views Counter
+#👀 Profile Views Counter
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ishita0610&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -671,7 +647,7 @@ Excellence Technology
 
 
 
-📬 Contact Me
+#📬 Contact Me
 
 <p align="center">
 
@@ -690,7 +666,7 @@ Excellence Technology
 </p>
 
 
-✨ Footer
+#✨ Footer
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,50:7c3aed,100:0f172a&section=footer" />
