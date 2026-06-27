@@ -1,208 +1,708 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:7c3aed,100:06b6d4&text=ISHITA%20SHARMA&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Data%20Driven%20Problem%20Solver&descAlignY=58&descSize=18" alt="Ishita Sharma banner" />
-</p>
+# <p align="center">
+
+# <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:7c3aed,100:06b6d4&text=ISHITA%20SHARMA&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Data%20Driven%20Problem%20Solver&descAlignY=58&descSize=18" />
+
+# </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=28&duration=2600&pause=900&color=61DAFB&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Artificial+Intelligence+and+Machine+Learning;Python+%7C+NLP+%7C+Predictive+Modeling;Building+AI-Powered+Applications" alt="Typing introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=28&duration=2500&pause=900&color=61DAFB&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Building+AI-Powered+Applications;Always+Learning+New+Technologies" />
 </p>
 
+---
+
+# <p align="center">👋 Hi, I'm Ishita Sharma</p>
+
+<h3 align="center">
+AI/ML Enthusiast • Python Developer • Data Science Learner
+</h3>
+
 <p align="center">
-  <a href="mailto:ishita062003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ishita062003%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/ishita-sharma-6b37ba335">
-    <img src="https://img.shields.io/badge/LinkedIn-ishita--sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ishita0610">
-    <img src="https://img.shields.io/badge/GitHub-ishita0610-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+I enjoy building intelligent applications using Machine Learning, Deep Learning, NLP, and Python while continuously exploring modern AI technologies.
 </p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ishita062003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ishita062003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ishita-sharma-6b37ba335">
+<img src="https://img.shields.io/badge/LinkedIn-Ishita%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ishita0610">
+<img src="https://img.shields.io/badge/GitHub-ishita0610-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👩‍💻 About Me
+
+<table>
+<tr>
+
+<td width="60%">
+
+### 💡 Who Am I?
+
+🎓 Final Year B.Tech Computer Science Engineering Student
+
+🤖 Passionate about Artificial Intelligence and Machine Learning
+
+💻 Strong interest in Python Development
+
+📊 Love solving real-world problems using Data Science
+
+📚 Currently learning advanced AI technologies
+
+🚀 Building intelligent AI-powered web applications using Django
+
+🔍 Interested in:
+
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Predictive Analytics
+* Computer Vision
+* Generative AI
+
+</td>
+
+<td width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishita0610&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Quick Highlights
+
+<table>
+
+<tr>
+<td>🎓 Degree</td>
+<td>B.Tech Computer Science Engineering</td>
+</tr>
+
+<tr>
+<td>🏫 University</td>
+<td>Himachal Pradesh Technical University</td>
+</tr>
+
+<tr>
+<td>📅 Batch</td>
+<td>2022 – 2026</td>
+</tr>
+
+<tr>
+<td>📈 CGPA</td>
+<td>7.14</td>
+</tr>
+
+<tr>
+<td>🏆 Class XII</td>
+<td>90.8%</td>
+</tr>
+
+<tr>
+<td>💼 Current Training</td>
+<td>6-Month AI & ML Industrial Training at ThinkNEXT Technologies</td>
+</tr>
+
+<tr>
+<td>🎯 Career Goal</td>
+<td>AI / Machine Learning Engineer</td>
+</tr>
+
+<tr>
+<td>🌱 Currently Learning</td>
+<td>Django • Machine Learning • NLP • Deep Learning</td>
+</tr>
+
+<tr>
+<td>📍 Location</td>
+<td>Himachal Pradesh, India</td>
+</tr>
+
+</table>
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## ⚙️ Frameworks & Libraries
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=django"/>
+
+<img src="https://skillicons.dev/icons?i=flask"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=pycharm"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Natural%20Language%20Processing-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Analysis-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Predictive%20Modeling-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Preprocessing-6f42c1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Feature%20Engineering-20c997?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Model%20Evaluation-17a2b8?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📚 Python Libraries
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+
+</p>
+
+---
+
+## 🎯 Areas of Interest
+
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 📖 Deep Learning
+* 💬 Natural Language Processing
+* 📊 Data Analytics
+* 📈 Predictive Modeling
+* 🌐 AI-Powered Web Applications
+* 🔍 Computer Vision
+* ⚡ Python Development
+* 🚀 Intelligent Automation
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
+</p>
+
+# ⭐ Featured Projects 
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🛡️ AI-Powered Financial Fraud Detection System</h2>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django"/>
+
+<br><br>
+
+### 📌 Overview
+
+AI-powered fraud detection system that identifies suspicious financial transactions using machine learning algorithms.
+
+### ✨ Features
+
+- User Authentication
+- Fraud Prediction
+- Interactive Dashboard
+- Data Visualization
+- Feature Engineering
+- Model Evaluation
+- Explainable AI
+- Real-time Prediction
+
+### 🛠 Technologies
+
+- Python
+- Django
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+- MySQL
 
 <br>
 
-<table>
-  <tr>
-    <td width="60%">
-      <h2>ABOUT ME</h2>
-      <p>
-        I am a Computer Science Engineering student with hands-on experience in
-        <b>Python, Machine Learning, Data Analysis, NLP, predictive modeling,
-        data preprocessing, and performance evaluation</b>.
-      </p>
-      <p>
-        I enjoy building AI-powered applications that solve clear real-world
-        problems and turn data into useful, intelligent outcomes.
-      </p>
-    </td>
-    <td width="40%">
-      <h2>QUICK HIGHLIGHTS</h2>
-      <p><b>Role:</b> AI/ML Enthusiast</p>
-      <p><b>B.Tech:</b> CSE, 2022 - 2026</p>
-      <p><b>CGPA:</b> 7.14</p>
-      <p><b>Class XII:</b> 90.8%</p>
-      <p><b>Focus:</b> ML, NLP, Data Analysis</p>
-    </td>
-  </tr>
+<a href="https://github.com/ishita0610/FraudShield-AI">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🛒 E-Commerce Recommendation System</h2>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/Recommendation%20System-8A2BE2?style=for-the-badge"/>
+
+<br><br>
+
+### 📌 Overview
+
+Personalized recommendation engine that recommends products according to user preferences.
+
+### ✨ Features
+
+- Personalized Suggestions
+- Product Similarity
+- Recommendation Engine
+- Machine Learning
+- User Preference Analysis
+
+### 🛠 Technologies
+
+- Python
+- Machine Learning
+- Pandas
+- NumPy
+- HTML
+- CSS
+
+<br>
+
+<a href="https://github.com/ishita0610/E-Commerce-Recommendation-System">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>📱 Spam SMS Detection</h2>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+
+<img src="https://img.shields.io/badge/NLP-228B22?style=for-the-badge"/>
+
+<br><br>
+
+### 📌 Overview
+
+Machine learning web application that classifies SMS messages as Spam or Ham using NLP.
+
+### ✨ Features
+
+- Text Cleaning
+- NLP
+- TF-IDF
+- Spam Prediction
+- Web Interface
+
+### 🛠 Technologies
+
+- Python
+- Flask
+- NLP
+- Scikit-Learn
+
+<br>
+
+<a href="https://github.com/ishita0610/spam-sms-detection">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+# 🚧 Coming Soon
+
+### 🎓 AI Tutor Bot
+
+A complete AI-powered personalized learning platform featuring:
+
+- AI Chat Tutor
+- Voice Tutor
+- Quiz Generator
+- Emotion Detection
+- RAG PDF Chat
+- Flashcards
+- AI Notes
+- Study Planner
+- Analytics Dashboard
+- Gamification
+- Career Guidance
+
+**Tech Stack**
+
+- Django
+- Python
+- Gemini API
+- MySQL
+- Bootstrap
+- JavaScript
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-## TECH STACK
+# 💼 Experience
+
+<table>
+
+<tr>
+
+<td width="25%">
+
+### Jan 2026 – Present
+
+</td>
+
+<td>
+
+# ThinkNEXT Technologies Pvt. Ltd.
+
+### AI & Machine Learning Industrial Training
+
+- Machine Learning
+- Python Programming
+- Data Preprocessing
+- Feature Engineering
+- Model Building
+- Testing
+- Model Evaluation
+- AI Project Development
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Jun 2025 – Jul 2025
+
+</td>
+
+<td>
+
+# A2IT InternEdge
+
+### Python AI/ML Training
+
+Completed an intensive AI/ML training program covering
+
+- Python
+- OOP
+- NumPy
+- Pandas
+- Machine Learning Fundamentals
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Jun 2024 – Jul 2024
+
+</td>
+
+<td>
+
+# Excellence Technology
+
+### Core Java Training
+
+Covered
+
+- OOP
+- Collections
+- Exception Handling
+- JDBC
+- Multithreading
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎓 Education
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## Himachal Pradesh Technical University
+
+### Bachelor of Technology
+
+Computer Science Engineering
+
+📅 2022 – 2026
+
+🎯 CGPA: **7.14**
+
+</td>
+
+<td width="50%">
+
+## Gurukul International Senior Secondary School
+
+Class XII (Non-Medical)
+
+📅 2021
+
+🏆 90.8%
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📜 Certifications
+
+<table>
+
+<tr>
+
+<td>
+
+🏅 Python Programming
+
+Udemy
+
+</td>
+
+<td>
+
+🏅 Artificial Intelligence & Machine Learning
+
+ThinkNEXT Technologies
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🏅 Python AI/ML
+
+A2IT InternEdge
+
+</td>
+
+<td>
+
+🏅 Core Java
+
+Excellence Technology
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏆 Achievements
+
+- 🎯 Built multiple AI & Machine Learning projects
+- 💻 Developed full-stack AI web applications
+- 📈 Strong foundation in Data Science
+- 🧠 Passionate AI learner
+- 🚀 Continuously exploring Generative AI
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,django,flask,mysql,git,github,vscode,pycharm" alt="Tech stack icons" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+
 </p>
+
+# 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-312E81?style=for-the-badge&logoColor=white" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/NLP-0F766E?style=for-the-badge&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ishita0610&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=ishita0610&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-## FEATURED PROJECTS
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>AI-POWERED FRAUD DETECTION SYSTEM</h3>
-      <p><b>Tech:</b> Python, Machine Learning, Scikit-Learn</p>
-      <p>Improved a machine learning-based system to identify suspicious financial transactions.</p>
-      <p>Integrated preprocessing, feature engineering, Logistic Regression, Decision Tree, and Random Forest.</p>
-      <p>Evaluated model accuracy to improve detection quality and reduce false positives.</p>
-      <a href="https://github.com/ishita0610/FraudShield-AI">
-        <img src="https://img.shields.io/badge/View%20Repository-61DAFB?style=for-the-badge&logo=github&logoColor=111827" alt="FraudShield AI repository" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>E-COMMERCE RECOMMENDATION SYSTEM</h3>
-      <p><b>Tech:</b> Python, Machine Learning, HTML</p>
-      <p>Crafted a recommendation system to deliver personalized product suggestions.</p>
-      <p>Enhanced the shopping experience using Python and machine learning techniques.</p>
-      <p>Implemented collaborative filtering and content-based filtering for better recommendations.</p>
-      <a href="https://github.com/ishita0610/E-Commerce-Recommendation-System">
-        <img src="https://img.shields.io/badge/View%20Repository-A78BFA?style=for-the-badge&logo=github&logoColor=111827" alt="E-Commerce Recommendation System repository" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>SPAM SMS DETECTION WEB APPLICATION</h3>
-      <p><b>Tech:</b> Python, Flask, NLP</p>
-      <p>Created a Flask-based web application for SMS spam detection using NLP techniques.</p>
-      <p>Preprocessed SMS text data and trained machine learning models for automated classification.</p>
-      <p>Connected the trained model with an interactive web interface.</p>
-      <a href="https://github.com/ishita0610/spam-sms-detection">
-        <img src="https://img.shields.io/badge/View%20Repository-FB7185?style=for-the-badge&logo=github&logoColor=111827" alt="Spam SMS Detection repository" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>CORE STRENGTHS</h3>
-      <p>Problem-solving and analytical thinking.</p>
-      <p>Teamwork, adaptability, and effective communication.</p>
-      <p>Interest in practical AI solutions with clean user experiences.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## EXPERIENCE AND TRAINING
-
-<table>
-  <tr>
-    <td width="32%"><b>Jan 2026 - Present</b></td>
-    <td>
-      <b>ThinkNEXT Technologies Private Limited, Mohali</b><br>
-      6-Month Industrial Training in Artificial Intelligence and Machine Learning.
-      Worked on data preprocessing, model development, supervised learning pipelines,
-      training, testing, validation, and performance evaluation.
-    </td>
-  </tr>
-  <tr>
-    <td><b>Jun 2025 - Jul 2025</b></td>
-    <td>
-      <b>A2IT InternEdge, Mohali</b><br>
-      Completed a 6-week Python AI/ML course focused on Python fundamentals for
-      Artificial Intelligence and Machine Learning.
-    </td>
-  </tr>
-  <tr>
-    <td><b>Jun 2024 - Jul 2024</b></td>
-    <td>
-      <b>Excellence Technology, Hamirpur</b><br>
-      Completed a 28-day Core Java intensive course covering OOP, Collections
-      Framework, Exception Handling, and JDBC.
-    </td>
-  </tr>
-</table>
-
----
-
-## EDUCATION
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>HIMACHAL PRADESH TECHNICAL UNIVERSITY</h3>
-      <p>B.Tech in Computer Science Engineering</p>
-      <p><b>CGPA:</b> 7.14 | <b>Year:</b> 2022 - 2026</p>
-    </td>
-    <td width="50%">
-      <h3>GURUKUL INTERNATIONAL SENIOR SECONDARY SCHOOL</h3>
-      <p>Class XII, Non-Medical</p>
-      <p><b>Percentage:</b> 90.8% | <b>Year:</b> 2021</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## CERTIFICATION
-
-<p>
-  <img src="https://img.shields.io/badge/Python%20Programming-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Python Programming Udemy" />
-</p>
-
-Certified in Python fundamentals, hands-on projects, and AI/ML concepts.
-
----
-
-## GITHUB STATS
+# 📈 GitHub Activity Graph
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ishita0610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ishita Sharma GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ishita0610&theme=tokyonight&hide_border=true&background=0D1117" alt="Ishita Sharma GitHub streak" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishita0610&theme=tokyo-night&hide_border=true" />
 </p>
-<br />
 
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishita0610&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=CBD5E1&line=22D3EE&point=A855F7&area=true&area_color=312E81" alt="GitHub activity graph" />
+---
 
-</div>
+# 🐍 Contribution Snake (Optional but Cool)
 
-<br />
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%" alt="Neon divider" />
-<h3 align="center">Pac-Man </h3>
+---
+
+# 👾 Pacman Contribution Graph (FIXED)
+
+> ⚠️ This works ONLY if GitHub Actions is enabled (output branch must exist)
+
+<p align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishita0610/ishita0610/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishita0610/ishita0610/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ishita0610/ishita0610/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ishita0610/ishita0610/output/pacman-contribution-graph.svg">
 </picture>
 
-
+</p>
 
 ---
 
+# 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,50:7c3aed,100:0f172a" alt="Footer wave" />
+<img src="https://github-profile-trophy.vercel.app/?username=ishita0610&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
+
+---
+
+# 👀 Profile Views Counter
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ishita0610&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+# 📬 Contact Me
+
+<p align="center">
+
+<a href="mailto:ishita062003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/ishita-sharma-6b37ba335">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/ishita0610">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# ✨ Footer
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,50:7c3aed,100:0f172a&section=footer" />
+</p>
+
+<p align="center">
+<b>Thanks for visiting my profile 🚀</b><br>
+<i>AI/ML Enthusiast • Python Developer • Future Machine Learning Engineer</i>
+</p>
+
+
 
